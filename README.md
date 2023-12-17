@@ -1,1 +1,1 @@
-# CS-370-CURRENT-EMERGING-TRENDS-IN-COMPUTER-SCIENCE
+# CS-370 Current/Emerging Trends in Computer Science
