@@ -1,4 +1,4 @@
-# CS-370 Current/Emerging Trends in Computer Science
+# Deep-Q learning algorithm
 
 Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
   This project was designed to create an agent (a pirate) that would use a deep Q learning algorithm to learn to navigate a maze to the reward (a treasure). I was given the parts of the program that set up the maze conditions and the possible moves that the agent could make. I created the deep Q learning algorithm that trained the agent to learn to navigate the maze.
